@@ -7,9 +7,14 @@ The AI-Project with Machine Learning and Deep Learning
 
 ![image](Optimizer3D.gif)
 
+
 ## Part2. Deep Learning Project : 
 
     - CNN : Image Classification.<br>
     - RNN : Stock Prediction.<br>
     - NLP : Pipeline from Word Vector to text classfication.<br>
+    
+    
+![image](AI.JPG)
+
 
